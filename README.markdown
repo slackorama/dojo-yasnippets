@@ -32,19 +32,18 @@ lot in dojo.  Thus, 'dc' becomes 'dojo.connect', 'dr' becomes 'dojo.require'.
 
 Contact
 =======
-Contact me at seth@sethmason.com if you want to add anything to this project.
-If you fork it, feel free to send me a pull request.
+Feel free to file an issue at
+[Github](http://github.com/slackorama/dojo-yasnippets/issues) if you want to
+add anything to this project.  If you fork it, feel free to send me a pull
+request.
 
 Resources
 =========
-YASnippet
-http://pluskid.lifegoo.com/upload/project/yasnippet/doc/index.html
+[YASnippet](http://pluskid.lifegoo.com/upload/project/yasnippet/doc/index.html)
 
-js2-mode
-http://code.google.com/p/js2-mode/
+[js2-mode](http://code.google.com/p/js2-mode/)
 
-Dojo
-http://www.dojotoolkit.org
+[Dojo](http://www.dojotoolkit.org)
 
 
 
